@@ -15,3 +15,13 @@
     <img height="20" src="https://badgen.org/img/zenn/keichan_15/articles?style=plastic" />
   </a> -->
 </p>
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SenruoYusei&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SenruoYusei&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SenruoYusei&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SenruoYusei&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SenruoYusei&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=SenruoYusei&theme=gruvbox)
